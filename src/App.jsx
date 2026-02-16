@@ -1,4 +1,5 @@
 import Header from "./components/Header"
+import Entry from "./components/Entry"
 
 function App() {
   
@@ -6,6 +7,9 @@ function App() {
     <>
 
   <Header/>
+   
+  <Entry/>
+
         </>
   )
 }
